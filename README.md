@@ -1,6 +1,6 @@
 ### As-salamu alaykum 👋
 
-- 🔭 I’m currently working on Nasheed app.
+- 🔭 I’m currently working on flutter puzzle hack.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with opensource contribution.
