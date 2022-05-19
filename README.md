@@ -1,7 +1,7 @@
 ### As-salamu alaykum 👋
 
-- 🔭 I’m currently working on flutter puzzle hack.
-- 🌱 I’m currently learning Flutter.
+<!-- - 🔭 I’m currently working on flutter puzzle hack. -->
+- 🌱 I’m currently learning responsive web development.
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with opensource contribution.
 - 💬 Ask me about cats
