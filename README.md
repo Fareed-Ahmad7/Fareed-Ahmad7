@@ -1,7 +1,7 @@
 ### As-salamu alaykum 👋
 
 <!-- - 🔭 I’m currently working on flutter puzzle hack. -->
-- 🌱 I’m currently working on [Kitaab](https://github.com/Fareed-Ahmad7/Kitaab).
+- 🌱 I’m currently working on [mumin](https://github.com/Fareed-Ahmad7/mumin).
 - 👯 I’m looking to collaborate on discord.
 - 🤔 I’m looking for help with opensource contribution.
 - 💬 Ask me about cats
